@@ -1,0 +1,5 @@
+packages:
+  katas.cabal
+
+package katas
+  ghc-options: -Werror
