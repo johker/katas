@@ -5,4 +5,5 @@ module Combinators.Ski (
 
 data Ski = I deriving (Show, Eq)
 
+eval :: p -> p
 eval x = x
